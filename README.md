@@ -2,7 +2,7 @@
 
 Goodness-of-Fit Tests Based on Mellin Statistics for Reliability Data
 
-Authors
+**Authors**
 
 Caio C. F. Santos, Raydonal Ospina, Patrícia Espinheira, Marília Lages
 
